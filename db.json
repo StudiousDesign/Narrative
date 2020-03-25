@@ -1,13 +1,1 @@
-{
-"ResourceName" : "SomeResource",
-"Terms" : [
-  {
-    "Name" : "NameMacro",
-    "Description" : "Some Description of this Macro"
-  },
-  {
-    "Name" : "NameMacro",
-    "Description" : "Some Description of this Macro"
-  }
-]
-}
+{}
