@@ -1,21 +1,13 @@
-"Service" : {
-  "Firstname" :"SomeValue",
-"terms" : [
+{
+"ResourceName" : "SomeResource",
+"Terms" : [
   {
-    "Name" : "PatientName",
-    "Description" : "The name of the patient"
+    "Name" : "NameMacro",
+    "Description" : "Some Description of this Macro"
   },
   {
-    "Name" : "PatientAge",
-    "Description" : "The age of the patient"
-  },
-  {
-    "Name" : "PatientNickname",
-    "Description" : "The nickname of the patient"
-  },
-  {
-    "Name" : "PatientPreviousNames",
-    "Description" : "Previous patient names"
+    "Name" : "NameMacro",
+    "Description" : "Some Description of this Macro"
   }
-  ]
+]
 }
