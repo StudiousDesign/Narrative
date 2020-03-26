@@ -1,18 +1,11 @@
-[
-  {
-    "Name": "PatientName",
-    "Description": "The name of the patient"
-  },
-  {
-    "Name": "PatientAge",
-    "Description": "The age of the patient"
-  },
-  {
-    "Name": "PatientNickname",
-    "Description": "The nickname of the patient"
-  },
-  {
-    "Name": "PatientPreviousNames",
-    "Description": "Previous patient names"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
