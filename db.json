@@ -1,8 +1,12 @@
 {
-  "posts": [
+  "terms": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "PatientName",
+      "description": "this is the patient name description"
+    },
+    {
+      "name": "PatientAddress",
+      "description": "this is the patient address description"
     }
   ],
   "profile": {
